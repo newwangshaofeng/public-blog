@@ -7,6 +7,8 @@ image: cover.jpg
 
 For more details, check out the [documentation](https://stack.jimmycai.com/writing/shortcodes).
 
+
+
 ## Bilibili video
 
 {{< bilibili "BV1d4411N7zD" >}}
